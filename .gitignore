@@ -1,0 +1,9 @@
+node_modules
+/.idea
+.vscode/settings.json
+/.DS_Store
+.DS_Store
+yarn-error.log
+.gh-token
+lerna-debug.log
+.env
